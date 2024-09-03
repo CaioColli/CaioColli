@@ -23,7 +23,7 @@
 ![SASS](https://img.shields.io/badge/-SASS-0D1117?style=for-the-badge&logo=SASS&logoColor=EE82EE&labelColor=0D1117)&nbsp;
 
 ### Estudando nesse momento:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![ReactNative](https://img.shields.io/badge/-React.Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![WordPress](https://img.shields.io/badge/-WordPress-0D1117?style=for-the-badge&logo=WordPress&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
