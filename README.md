@@ -64,6 +64,8 @@
 <br>
 
 <div align="center">
+  <h3>Visitas</h3>
+  
   <img src="https://profile-counter.glitch.me/CaioColli /count.svg?"  />
 </div>
 
