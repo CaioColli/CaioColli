@@ -1,36 +1,72 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Caio+Colli;Tenho+24+anos;Sou+de+Campinas(Sp);Estudante+de+análise+e+desenvolvimento+de+sistemas;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=CaioColli&show_icons=true&count_private=true&hide_border=true&title_color==00BFFF&icon_color==00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioColli&layout=compact&hide_border=true&title_color==00BFFF&text_color=c9d1d9&bg_color=0d1117" />
+<div align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 </div>
-
-<div align="center"> 
-<a href="mailto:caiocolli22@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar e-mail">
-</a>
-<a href="https://www.linkedin.com/in/caiocolli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-</div>
-
-### Minhas Skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=FFA500&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![SASS](https://img.shields.io/badge/-SASS-0D1117?style=for-the-badge&logo=SASS&logoColor=EE82EE&labelColor=0D1117)&nbsp;
-
-### Estudando nesse momento:
-![ReactNative](https://img.shields.io/badge/-React.Native-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=TypeScript&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![WordPress](https://img.shields.io/badge/-WordPress-0D1117?style=for-the-badge&logo=WordPress&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 <div align="center">
-<br><p align="centre"><b>Visitas</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{CaioColli}/count.svg" /></p> 
-<br>
+  <h2 align="center">Oi 👋! Meu nome é Caio sou desenvolvedor Front-End, sou de Campinas-Sp</h2>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
+<br>
+
+<img align="right" height="150" src="https://i.gifer.com/origin/23/23a060dbe8c86655109bcc2ffdb370f8_w200.gif"  />
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="javascript logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="48" alt="typescript logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="react logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="nodejs logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="html5 logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="css3 logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="48" alt="tailwindcss logo"  />
+  <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="48" alt="wordpress logo"  />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/caiocolli/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="32" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/+5519992702740" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="32" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.instagram.com/cai0_0colli/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="32" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
+<br>
+<br>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CaioColli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CaioColli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
+<br>
+
+<div align="center">
+
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=12162556277)
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/CaioColli /count.svg?"  />
+</div>
+
+<div align="center">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>  
+</div>
