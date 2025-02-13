@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h2 align="center">Oi 👋! Meu nome é Caio sou desenvolvedor Front-End, sou de Campinas-Sp</h2>
+  <h2 align="center">Oi 👋! Meu nome é Caio sou desenvolvedor Full Stack, sou de Campinas-Sp</h2>
 </div>
 
 <br>
@@ -19,13 +19,12 @@
   <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="nodejs logo"  />
   <img width="24" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="48" alt="nodejs logo"  />
+  <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="48" alt="html5 logo"  />
   <img width="24" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="48" alt="css3 logo"  />
   <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="48" alt="tailwindcss logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="48" alt="wordpress logo"  />
 </div>
 
 <br>
@@ -36,9 +35,6 @@
   </a>
   <a href="https://wa.me/+5519992702740" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=flat" height="32" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.instagram.com/cai0_0colli/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="32" alt="instagram logo"  />
   </a>
 </div>
 
