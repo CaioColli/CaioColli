@@ -11,17 +11,19 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
+      # 🔹 obrigatório
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
       - name: Generate pacman contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: CaioColli
-          theme: github
 
+      # 🔹 publica os SVGs corretos
       - name: Push pacman to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
-          target_branch: output
-          build_dir: .
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          target_branch: output_
