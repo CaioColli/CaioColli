@@ -1,4 +1,4 @@
-name: Generate Pacman
+name: Generate Snake
 
 on:
   workflow_dispatch:
@@ -13,14 +13,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Generate pacman graph
-        uses: abozanona/pacman-contribution-graph@main
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: CaioColli
+          outputs: |
+            dist/snake/snake.svg
 
-      - name: Deploy pacman
+      - name: Deploy snake
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
