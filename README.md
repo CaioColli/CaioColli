@@ -48,9 +48,6 @@
   </a>
 </div>
 
-###
-<img src="https://raw.githubusercontent.com/CaioColli/CaioColli/output/snake/snake.svg" alt="Snake animation" />
-
 
 ###
 
