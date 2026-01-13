@@ -1,29 +1,30 @@
-name: Generate Snake
+name: Generate Pacman
 
 on:
   workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
 
-# 🔑 PERMISSÃO OBRIGATÓRIA
 permissions:
   contents: write
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate snake SVG
-        uses: Platane/snk/svg-only@v3
+      - uses: actions/checkout@v4
+
+      - name: Generate pacman graph
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: CaioColli
-          outputs: |
-            dist/snake.svg
 
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Deploy pacman
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
+          keep_files: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
